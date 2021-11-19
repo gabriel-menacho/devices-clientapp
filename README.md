@@ -9,3 +9,7 @@ $ npm install
 ```bash
 $ npm start
 ```
+
+The app will be running in:
+
+http://localhost:3001/
