@@ -1,0 +1,10 @@
+.device-info {
+  text-align: left;
+}
+.device {
+  border: 1px solid;
+  border-bottom: 0;
+}
+.device.last-child {
+  border-bottom: 1px solid;
+}

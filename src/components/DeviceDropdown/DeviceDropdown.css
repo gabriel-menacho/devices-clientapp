@@ -1,0 +1,20 @@
+.dropdown-label {
+  text-align: right;
+}
+.device-dropdown {
+  text-align: left;
+}
+.dropdown button,
+.dropdown button:hover,
+.dropdown button:active,
+.dropdown button:focus,
+.dropdown button:focus-visible,
+.dropdown.show button,
+.dropdown.show button:hover,
+.dropdown.show button:active,
+.dropdown.show button:focus,
+.dropdown.show button:focus-visible {
+  border: 0;
+  background-color: transparent;
+  color: #000;
+}
